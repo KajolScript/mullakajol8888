@@ -1,6 +1,7 @@
-#KajoScript
+#Kajo
+Script
 
-![GitHub Profile](https://example.com/github-profile-image.jpg)
+https://github.com/mullakajol8888/mullakajol8888
 
 ## Hi there! 👋
 
