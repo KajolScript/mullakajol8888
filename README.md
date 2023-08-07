@@ -1,6 +1,6 @@
 #KajolScript
 
-https://github.com/mullakajol8888/mullakajol8888
+https://github.com/KajolScript
 
 ## Hi there! 👋
 
