@@ -1,5 +1,4 @@
-#Kajo
-Script
+#KajolScript
 
 https://github.com/mullakajol8888/mullakajol8888
 
